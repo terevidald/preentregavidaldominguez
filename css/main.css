@@ -661,11 +661,15 @@ textarea {
 
     .burgas {
         grid-template-columns: 1fr;
-        justify-content: center;
+        justify-items: center;
     }
 
     .bg-footer {
         flex-direction: column;
+    }
+
+    .burga-ind {
+        width: 85%;
     }
 
     .df-header {
