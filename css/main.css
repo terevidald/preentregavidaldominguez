@@ -659,6 +659,10 @@ textarea {
 
     /* INICIO MENU */
 
+    .burgas {
+        grid-template-columns: 1fr;
+        justify-items: center;
+    }
 
     .bg-footer {
         flex-direction: column;
