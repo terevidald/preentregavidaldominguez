@@ -669,7 +669,7 @@ textarea {
     }
 
     .burga-ind {
-        width: 50%;
+        width: 80%;
     }
 
     .df-header {
@@ -690,9 +690,6 @@ textarea {
         padding: 0;
     }
 
-    .whatsapp {
-        z-index: 2;
-    }
 
     /* FIN MENU */
 
